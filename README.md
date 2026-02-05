@@ -1,2 +1,2 @@
 # Belajaran-GIT
-belajar it mandiri
+belajar git mandiri bolo
