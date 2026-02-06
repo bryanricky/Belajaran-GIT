@@ -1,4 +1,4 @@
 # Belajaran-GIT
 belajar git mandiri bolo
 
-Langsung cuss
+Langsung cuss selesaikan
